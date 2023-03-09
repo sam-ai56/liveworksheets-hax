@@ -9,6 +9,7 @@ liveworksheets uploads the answers to the client with which we can retrieve this
 ### How to use it
 
 Open the developer tools with **Shift + Alt + I** or **F12**. Click on the console tab, paste in the code and press Enter, the code will do everything for you.
+If nothing happens or the fields are highlighted in red press **CTRL + F5**.
 
 ### Code
 
